@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MVVM architectore</string>
+    <string name="logo_text">Architect your app with</string>
+    <string name="mvvm_logo_text">MVVM</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in_btn_text">Sign In</string>
+    <string name="sign_up_here_text">Don\'t have an account? \nSign Up Here</string>
+    <string name="sign_up_name">Name</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="forget_password_text">Forget Password?</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="logo_description_text">Logo</string>
 </resources>

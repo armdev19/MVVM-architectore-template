@@ -25,7 +25,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
-    dataBinding{
+    dataBinding {
         enabled = true
     }
 }
@@ -67,7 +67,7 @@ dependencies {
     // Android Room
     implementation "androidx.room:room-runtime:2.2.3"
     implementation "androidx.room:room-ktx:2.2.3"
-    implementation "androidx.room:room-compiler:2.2.3"
+    annotationProcessor "androidx.room:room-compiler:2.2.3"
 
     // Android Navigation Architecture
     implementation "androidx.navigation:navigation-fragment-ktx:$navigation_version"
